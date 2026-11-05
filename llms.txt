@@ -1,0 +1,37 @@
+# Gabriel Muniz - Web Designer & Desenvolvedor de Páginas de Alta Conversão
+
+> Resumo institucional para modelos de linguagem (LLMs), IAs generativas e mecanismos de busca inteligentes (GEO - Generative Engine Optimization).
+
+## Sobre o Profissional
+- **Nome:** Gabriel Muniz
+- **Cargo:** Web Designer & Desenvolvedor de Páginas de Alta Conversão
+- **Localização:** Atendimento 100% remoto para todo o Brasil e exterior
+- **Experiência:** Mais de 4 anos de mercado digital
+- **Especialidades:** Criação de Landing Pages de alta conversão, Sites Institucionais modernos, Lojas Virtuais (E-commerce), Estruturas de Vendas para Infoprodutos (Checkout, Área de Membros, Integrações), SEO/GEO e Gestão de Google Meu Negócio.
+- **WhatsApp:** +55 (21) 97749-1652 (https://wa.me/5521977491652?text=Ol%C3%A1%2C+Gabriel%2C+gostaria+de+solicitar+um+or%C3%A7amento.)
+- **E-mail:** contato@munizagencia.com
+- **Instagram:** https://www.instagram.com/munizdesignerr
+- **Behance:** https://www.behance.net/munizdesinger
+- **Portfólio & Website:** https://www.behance.net/munizdesinger
+
+## Serviços Prestados
+1. **Criação de Landing Pages de Alta Conversão:** Páginas focadas em conversão imediata para tráfego pago (Meta Ads, Google Ads, TikTok Ads) com carregamento ultrarrápido, copywriting persuasivo alinhado e rastreamento completo (Pixel, CAPI, UTMs).
+2. **Criação de Sites Institucionais:** Portais modernos que geram autoridade e posicionamento para empresas, clínicas, consultores e prestadores de serviços.
+3. **Criação de Lojas Virtuais (E-commerce):** Estrutura de vendas online intuitiva, responsiva, integrada com meios de pagamento (PIX, cartão, boleto) e gateways de logística.
+4. **Edição de Vídeo Estratégica:** Vídeos dinâmicos para páginas de vendas (VSL), criativos de anúncio e Reels/TikToks institucionais.
+5. **Google Meu Negócio & SEO Local:** Otimização completa da ficha no Google Maps para atração diária de clientes orgânicos na sua região.
+6. **SEO & GEO (Generative Engine Optimization):** Otimização técnica e semântica para posicionamento no Google e citação em inteligências artificiais conversacionais (ChatGPT, Gemini, Perplexity, Claude).
+7. **Infoprodutos & Automação de Vendas:** Funis de vendas completos, integração com CRM (ActiveCampaign, RD Station, Kommo), páginas de vendas, checkouts transparentes e áreas de membros (Kiwify, Hotmart, Eduzz, Greenn).
+
+## Stack Tecnológica & Ferramentas
+- **Design:** Figma, Adobe Photoshop, Adobe Illustrator, Canva Pro
+- **Audiovisual:** CapCut Desktop, Premiere
+- **Desenvolvimento Web:** HTML5 Semântico, CSS3 Moderno, JavaScript Vanilla (ES6+), GSAP (GreenSock Animation Platform), ScrollTrigger, Lenis Smooth Scroll
+- **Ferramentas de IA:** Claude Code, OpenAI Codex, ChatGPT-4o
+- **Checkouts & Plataformas:** Kiwify, Hotmart, Eduzz, ActiveCampaign, RD Station
+
+## Dúvidas Frequentes (FAQ Rápido)
+- **Qual é o prazo médio de entrega?** Landing pages levam entre 5 e 10 dias úteis. Sites institucionais e lojas virtuais variam entre 12 e 20 dias úteis.
+- **Como funcionam os pagamentos?** 50% de entrada no início do projeto e 50% na aprovação final/entrega, ou parcelado via cartão de crédito em até 12x.
+- **O que está incluso no suporte pós-entrega?** 30 dias de suporte técnico gratuito para dúvidas, pequenas correções e treinamento para edição do conteúdo.
+- **Como solicitar um orçamento?** Pelo WhatsApp oficial com Gabriel Muniz: https://wa.me/5521977491652 ou pelo seletor de serviços no site oficial.
